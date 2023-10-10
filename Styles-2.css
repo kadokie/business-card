@@ -1,0 +1,27 @@
+ 
+body {
+    margin: 20px;
+    font-family: Verdana,Geneva, Tahoma, sans-serif;
+}
+
+.div-wrapper {
+    width: 450px;
+margin: 0 auto;
+padding: 20px;
+display: flex;
+justify-content: space-around;
+text-align: center;
+background: #ddebf8;
+border-bottom: 5px solid #d8cefe;
+}
+
+.img {
+    
+    width: 150px;
+   
+}
+
+.text-wrapper {
+     border: 1px dotted blue;
+color: black;
+}
